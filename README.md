@@ -1,2 +1,4 @@
 # asstosrt
-a tool to convert ass sub file to srt file
+这是一个将ass字幕文件转换为srt格式的工具
+## 使用方法：
+将包含ass文件的文件夹或者ass文件拖入窗口然后点击开始即可开始转换，转换完成之后会在源文件同样位置生成转换好的srt文件
